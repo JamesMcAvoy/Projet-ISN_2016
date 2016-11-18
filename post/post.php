@@ -1,0 +1,7 @@
+<?php
+
+/*
+
+PARTIE AJAX RAJOUTER
+
+*/
